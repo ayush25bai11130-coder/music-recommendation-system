@@ -1,4 +1,3 @@
-
 # Music Recommendation System: A Content-Based Filtering Approach
 
 An intelligent system that leverages Natural Language Processing (NLP) and Machine Learning to recommend songs based on a user's selected track. It analyzes metadata like genre, artist, and track name to find and suggest the most similar songs from a large dataset.
