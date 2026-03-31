@@ -100,8 +100,8 @@ requirements.txt - A file listing all Python dependencies (e.g., pandas, scikit-
 
 README.md - This file.
 ```
-#Author
-##Made by: Ayush Tiwari 
+# Authored & Made
+## by: Ayush Tiwari 
 25BAI11130
 
 
